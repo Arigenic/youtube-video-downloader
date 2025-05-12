@@ -2,8 +2,9 @@ import yt_dlp
 
 # Replace these with your actual YouTube video URLs
 video_urls = [
-    "https://www.youtube.com/watch?v=YGZLvKAFeYI&ab_channel=Sota",
-    "https://www.youtube.com/watch?v=HRywgxrbahA&ab_channel=KINGAMV%27s%E5%A4%A2"
+    "https://www.youtube.com/watch?v=XXXXXXX",
+    "https://www.youtube.com/watch?v=XXXXXXX",
+    "https://www.youtube.com/watch?v=XXXXXXX"
 ]
 
 # Download options
